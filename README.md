@@ -1,8 +1,6 @@
 # Coen244NodeGraph
 
-Two types of graphs can be created; Undirected or a Directed graph.
-
-Several functions can be applied to the graph such as adding nodes, vertices, weights, searches, and many others.
+This program is used to create a graph that is customizable by the user. These are the functions the program can run. The program will also do checks during runtime to ensure that there are no errors with the inputs. Such as removing repeated edges, making sure the vertices exist for a given edge, etc.
 
 A graph can be empty with no vertex or edge.
 
